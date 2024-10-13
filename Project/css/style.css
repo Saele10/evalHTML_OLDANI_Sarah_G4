@@ -60,7 +60,13 @@ main {
 h1 {
     font-size: 50pt;
 }
+
 h2 {
+    color: aliceblue;
+    font-size: 30px;
+}
+
+h3 {
     color: ivory;
 }
 
